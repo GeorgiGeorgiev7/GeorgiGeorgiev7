@@ -2,11 +2,9 @@
 <h2 align="center">I am a Full-Stack Blockchain Developer!</h3>
 
 <div align="center">
-:eyes: My latest work is [ShareIt](https://github.com/GeorgiGeorgiev7/ShareIt)
+:eyes: My latest work is <a href="https://github.com/GeorgiGeorgiev7/ShareIt">ShareIt</a>
 
-:computer: I’m currently looking for job opportunities in the blockchain sector
-
-👨‍💻 All of my projects are available at [Portfolio](https://github.com/GeorgiGeorgiev7?tab=repositories)
+👨‍💻 All of my projects are available at my <a href="https://github.com/GeorgiGeorgiev7?tab=repositories">Portfolio</a>
 
 📫 Reach me at **georgingeorgiev7@gmail.com**
 </div>
