@@ -15,7 +15,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <div align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" />
@@ -30,8 +29,6 @@
         <a href="https://bg.reactjs.org/" target="_blank">
             <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
         </a>
-    </div>
-    <div align="center">
         <a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank">
             <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40" />
         </a>
@@ -50,8 +47,6 @@
         <a href="https://mochajs.org/" target="_blank">
             <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40" />
         </a>
-    </div>
-    <div align="center">
         <a href="https://git-scm.com/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
         </a>
@@ -66,7 +61,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                 alt="css3" width="40" height="40" />
         </a>
-    </div>
 </p>
 
 <p align="center">
