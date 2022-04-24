@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, my name is Georgi !</h1>
-<h2 align="center">I am a Full-Stack Blockchain Developer!</h3>
+        
+<h2 align="center">I am a Full-Stack Blockchain Developer</h3>
+        <br>
 
 <div align="center">
 :eyes: My latest work is <a href="https://github.com/GeorgiGeorgiev7/ShareIt">ShareIt</a><br>
@@ -8,12 +10,14 @@
 📫 Reach me at **georgingeorgiev7@gmail.com**
 </div>
 
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/georgi-georgiev-978253219" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="georgi-georgiev-978253219" color="white" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+        <br>
 <p align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -44,6 +48,8 @@
         <a href="https://web3js.readthedocs.io/en/v1.7.3/" target="_blank">
             <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" alt="web3js" width="40" height="40" />
         </a>
+        <br>
+        <br>
         <a href="https://mochajs.org/" target="_blank">
             <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40" />
         </a>
@@ -61,8 +67,4 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                 alt="css3" width="40" height="40" />
         </a>
-</p>
-
-<p align="center">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiGeorgiev7&layout=compact&theme=radical&langs_count=10" />
 </p>
