@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Georgi !</h1>
         
-<h2 align="center">I am a Full-Stack Blockchain Developer</h3>
+<h2 align="center">I am a Full-Stack Web3 Developer</h3>
         <br>
 
 <div align="center">
