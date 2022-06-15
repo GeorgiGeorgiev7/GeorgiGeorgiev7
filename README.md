@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, my name is Georgi !</h1>
         
-<h2 align="center">I am a Full-Stack Web3 Developer</h3>
+<h2 align="center">I am a Blockchain Developer</h3>
         <br>
 
 <div align="center">
-:eyes: My latest work is <a href="https://github.com/GeorgiGeorgiev7/ShareIt">ShareIt</a><br>
 👨‍💻 All of my projects are available at my <a href="https://github.com/GeorgiGeorgiev7?tab=repositories">Portfolio</a>
 
 📫 Reach me at **georgingeorgiev7@gmail.com**
